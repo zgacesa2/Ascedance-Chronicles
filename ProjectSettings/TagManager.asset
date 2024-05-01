@@ -3,7 +3,10 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Igrac
+  - TockePatroliranja
+  - Oruzje
   layers:
   - Default
   - TransparentFX
@@ -11,11 +14,11 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Igrac
+  - Zidovi
+  - Neprijatelj
+  - Carobnjak
+  - GlavniNeprijatelj
   - 
   - 
   - 

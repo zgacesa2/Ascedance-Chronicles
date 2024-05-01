@@ -1,9 +1,21 @@
 fileFormatVersion: 2
-guid: 9d7d48d203ba99c489fb77ed53c010aa
+guid: c9baec89d8c0398479357fc94eeed26c
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 8324699626590968871
+    second: BG-PozadinaVrhBlur_0
+  - first:
+      213: -9109941822925940195
+    second: BG-PozadinaVrhBlur_1
+  - first:
+      213: 7267007049599880466
+    second: BG-PozadinaVrhBlur_2
+  - first:
+      213: -2869364923836245373
+    second: BG-PozadinaVrhBlur_3
   externalObjects: {}
-  serializedVersion: 12
+  serializedVersion: 11
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -42,7 +54,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -63,7 +75,6 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
-  cookieLightType: 0
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -89,21 +100,93 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: Server
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: BG-PozadinaVrhBlur_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1131
+        width: 1033
+        height: 655
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c18c84436478370800000000000000
+      internalID: 8324699626590968871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG-PozadinaVrhBlur_1
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 1134
+        width: 983
+        height: 652
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a5608bd2cf29180800000000000000
+      internalID: -9109941822925940195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG-PozadinaVrhBlur_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1028
+        height: 323
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d09abc86899d460800000000000000
+      internalID: 7267007049599880466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG-PozadinaVrhBlur_3
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 0
+        width: 979
+        height: 319
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a56c7edc7fd28d0800000000000000
+      internalID: -2869364923836245373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -114,7 +197,11 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BG-PozadinaVrhBlur_1: -9109941822925940195
+      BG-PozadinaVrhBlur_0: 8324699626590968871
+      BG-PozadinaVrhBlur_3: -2869364923836245373
+      BG-PozadinaVrhBlur_2: 7267007049599880466
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
