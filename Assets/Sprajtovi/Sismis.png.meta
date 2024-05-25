@@ -1,9 +1,36 @@
 fileFormatVersion: 2
-guid: aa5be3f07f6186045a3acedb00dc7e6a
+guid: 7edaac0eac3f7e54d9f55a39281fe3ce
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -2557471514603805758
+    second: Sismis_0
+  - first:
+      213: 6188829301069970384
+    second: Sismis_1
+  - first:
+      213: 9086215726045414578
+    second: Sismis_2
+  - first:
+      213: 6240338610493500668
+    second: Sismis_3
+  - first:
+      213: 175308954794555011
+    second: Sismis_4
+  - first:
+      213: -8343971944126450215
+    second: Sismis_5
+  - first:
+      213: 8124093947343329872
+    second: Sismis_6
+  - first:
+      213: 4329312861119331254
+    second: Sismis_7
+  - first:
+      213: 765440668809951057
+    second: Sismis_8
   externalObjects: {}
-  serializedVersion: 12
+  serializedVersion: 11
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -20,12 +47,11 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
-    flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
-  ignoreMipmapLimit: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -48,7 +74,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 170
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -64,8 +90,6 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
-  swizzle: 50462976
-  cookieLightType: 0
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -77,7 +101,6 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -90,59 +113,6 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: Server
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: Android
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: Windows Store Apps
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
@@ -153,18 +123,18 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 111
-        y: 2126
-        width: 1537
-        height: 746
+        y: 1820
+        width: 1539
+        height: 1052
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: eb194c27a3c80434eaf4f67f335fa412
-      internalID: -1565110167
+      spriteID: 2c32cd02539028cd0800000000000000
+      internalID: -2557471514603805758
       vertices: []
       indices: 
       edges: []
@@ -178,35 +148,14 @@ TextureImporter:
         width: 1540
         height: 1041
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6ae3e3a32dbd91948b2aa041659196c2
-      internalID: 851157234
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sismis_2
-      rect:
-        serializedVersion: 2
-        x: 387
-        y: 1831
-        width: 945
-        height: 234
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9521a7873603a0a4b920ec66af8ef553
-      internalID: -541720501
+      spriteID: 0dbfdc1a57323e550800000000000000
+      internalID: 6188829301069970384
       vertices: []
       indices: 
       edges: []
@@ -220,14 +169,14 @@ TextureImporter:
         width: 317
         height: 522
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 331aff2fb921bcb44aa128fb789f8470
-      internalID: 1272707039
+      spriteID: cfcae9c47e22a9650800000000000000
+      internalID: 6240338610493500668
       vertices: []
       indices: 
       edges: []
@@ -241,14 +190,14 @@ TextureImporter:
         width: 471
         height: 432
       alignment: 9
-      pivot: {x: 0.86234564, y: 0.4274388}
+      pivot: {x: 0.9478016, y: 0.431648}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0ad37593c35b2ee408a9727bdb5163a5
-      internalID: 996154177
+      spriteID: 3867978c092de6200800000000000000
+      internalID: 175308954794555011
       vertices: []
       indices: 
       edges: []
@@ -262,14 +211,14 @@ TextureImporter:
         width: 472
         height: 432
       alignment: 9
-      pivot: {x: 0.13104351, y: 0.4355011}
+      pivot: {x: 0.053148173, y: 0.431648}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: df7103d683c68674f8317864bea36511
-      internalID: -131978607
+      spriteID: 9d5748e99b1443c80800000000000000
+      internalID: -8343971944126450215
       vertices: []
       indices: 
       edges: []
@@ -283,14 +232,14 @@ TextureImporter:
         width: 893
         height: 747
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 71670f261536c5640bc3b463480cc1a3
-      internalID: -1992740706
+      spriteID: 05adc4dd6649eb070800000000000000
+      internalID: 8124093947343329872
       vertices: []
       indices: 
       edges: []
@@ -303,15 +252,15 @@ TextureImporter:
         y: 299
         width: 893
         height: 944
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6582f9d71d8f5ed49a93eef3f89d7ccb
-      internalID: 1729820397
+      spriteID: 6bb3c880c1fc41c30800000000000000
+      internalID: 4329312861119331254
       vertices: []
       indices: 
       edges: []
@@ -321,18 +270,18 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 482
-        y: 71
-        width: 945
-        height: 237
+        y: 72
+        width: 944
+        height: 236
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 00ac2b611a536c94b92db3082a8ceb4c
-      internalID: 1869379868
+      spriteID: 157fd099b346f9a00800000000000000
+      internalID: 765440668809951057
       vertices: []
       indices: 
       edges: []
@@ -348,17 +297,17 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Sismis_0: -1565110167
-      Sismis_1: 851157234
-      Sismis_2: -541720501
-      Sismis_3: 1272707039
-      Sismis_4: 996154177
-      Sismis_5: -131978607
-      Sismis_6: -1992740706
-      Sismis_7: 1729820397
-      Sismis_8: 1869379868
-  mipmapLimitGroupName: 
+      Sismis_3: 6240338610493500668
+      Sismis_8: 765440668809951057
+      Sismis_1: 6188829301069970384
+      Sismis_4: 175308954794555011
+      Sismis_7: 4329312861119331254
+      Sismis_5: -8343971944126450215
+      Sismis_6: 8124093947343329872
+      Sismis_0: -2557471514603805758
+  spritePackingTag: 
   pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

@@ -1,9 +1,33 @@
 fileFormatVersion: 2
-guid: 93139a11b41af8c4ca44cf24d14505d4
+guid: c8502c41b9aba414ba7324f22fe46924
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -8255900782100415033
+    second: StvoreniTrkac_0
+  - first:
+      213: -8890939604991837735
+    second: StvoreniTrkac_1
+  - first:
+      213: 6660061096651562974
+    second: StvoreniTrkac_2
+  - first:
+      213: -6212451221857628505
+    second: StvoreniTrkac_3
+  - first:
+      213: -202286521426691818
+    second: StvoreniTrkac_4
+  - first:
+      213: 8385390468403458906
+    second: StvoreniTrkac_5
+  - first:
+      213: -4560931409514460978
+    second: StvoreniTrkac_6
+  - first:
+      213: -67989328354006006
+    second: StvoreniTrkac_7
   externalObjects: {}
-  serializedVersion: 12
+  serializedVersion: 11
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -20,12 +44,11 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
-    flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
-  ignoreMipmapLimit: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -48,7 +71,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 170
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -64,8 +87,6 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
-  swizzle: 50462976
-  cookieLightType: 0
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -77,7 +98,6 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -90,59 +110,6 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: Server
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: Android
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: Windows Store Apps
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
@@ -163,8 +130,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a132c90b712b606468335155e7f76e27
-      internalID: 715916069
+      spriteID: 7cdf806faf52d6d80800000000000000
+      internalID: -8255900782100415033
       vertices: []
       indices: 
       edges: []
@@ -177,15 +144,15 @@ TextureImporter:
         y: 1082
         width: 710
         height: 691
-      alignment: 9
-      pivot: {x: 0.50306773, y: 0.0019571881}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 18706dbcd045d6447a76045c81d4137c
-      internalID: -1999752221
+      spriteID: 9d9720519890d9480800000000000000
+      internalID: -8890939604991837735
       vertices: []
       indices: 
       edges: []
@@ -199,14 +166,14 @@ TextureImporter:
         width: 208
         height: 153
       alignment: 9
-      pivot: {x: 0.9293465, y: 0.91285175}
+      pivot: {x: 0.9185298, y: 0.8620789}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ca904b74b1fe7e44a98c9519df6293af
-      internalID: 772198032
+      spriteID: edf9058e74a4d6c50800000000000000
+      internalID: 6660061096651562974
       vertices: []
       indices: 
       edges: []
@@ -220,14 +187,14 @@ TextureImporter:
         width: 208
         height: 153
       alignment: 9
-      pivot: {x: 0.08112511, y: 0.8986154}
+      pivot: {x: 0.10683441, y: 0.84483707}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dc3d01a753778b54cae3b5c658c0148f
-      internalID: 701672453
+      spriteID: 7ae0cb85780f8c9a0800000000000000
+      internalID: -6212451221857628505
       vertices: []
       indices: 
       edges: []
@@ -240,15 +207,15 @@ TextureImporter:
         y: 490
         width: 339
         height: 311
-      alignment: 9
-      pivot: {x: 0.50000036, y: 0.0027376525}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c1bc02110c64f8e4fb38d6a2a964b14d
-      internalID: -20720835
+      spriteID: 61933830b75513df0800000000000000
+      internalID: -202286521426691818
       vertices: []
       indices: 
       edges: []
@@ -268,8 +235,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 924364443eb55a64cb751a88ae0060b9
-      internalID: 986737584
+      spriteID: a53722c0434ee5470800000000000000
+      internalID: 8385390468403458906
       vertices: []
       indices: 
       edges: []
@@ -283,14 +250,14 @@ TextureImporter:
         width: 111
         height: 276
       alignment: 9
-      pivot: {x: 0.5, y: 0.8077822}
+      pivot: {x: 0.4999978, y: 0.8058562}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b18a93d1bc976eb4a87a016ce8829e4e
-      internalID: -279440200
+      spriteID: ec808f24c0154b0c0800000000000000
+      internalID: -4560931409514460978
       vertices: []
       indices: 
       edges: []
@@ -304,14 +271,14 @@ TextureImporter:
         width: 110
         height: 276
       alignment: 9
-      pivot: {x: 0.5198031, y: 0.8077822}
+      pivot: {x: 0.4999978, y: 0.79629827}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ccad41622e87cc94094307e5c678c078
-      internalID: -2019203886
+      spriteID: a0c21fae0147e0ff0800000000000000
+      internalID: -67989328354006006
       vertices: []
       indices: 
       edges: []
@@ -327,16 +294,17 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      StvoreniTrkac_0: 715916069
-      StvoreniTrkac_1: -1999752221
-      StvoreniTrkac_2: 772198032
-      StvoreniTrkac_3: 701672453
-      StvoreniTrkac_4: -20720835
-      StvoreniTrkac_5: 986737584
-      StvoreniTrkac_6: -279440200
-      StvoreniTrkac_7: -2019203886
-  mipmapLimitGroupName: 
+      StvoreniTrkac_2: 6660061096651562974
+      StvoreniTrkac_6: -4560931409514460978
+      StvoreniTrkac_1: -8890939604991837735
+      StvoreniTrkac_0: -8255900782100415033
+      StvoreniTrkac_3: -6212451221857628505
+      StvoreniTrkac_4: -202286521426691818
+      StvoreniTrkac_5: 8385390468403458906
+      StvoreniTrkac_7: -67989328354006006
+  spritePackingTag: 
   pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

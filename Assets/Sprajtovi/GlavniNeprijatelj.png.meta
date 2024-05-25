@@ -1,9 +1,45 @@
 fileFormatVersion: 2
-guid: 6aaa8cba5834ec946bc5a7d7a89f0194
+guid: 04269803881b2ac4a8cda795e05e5042
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -3013448947343934054
+    second: GlavniNeprijatelj_0
+  - first:
+      213: 2830515760445142581
+    second: GlavniNeprijatelj_1
+  - first:
+      213: 7007521171389034358
+    second: GlavniNeprijatelj_2
+  - first:
+      213: 302426516867495564
+    second: GlavniNeprijatelj_3
+  - first:
+      213: -5957681486749745061
+    second: GlavniNeprijatelj_4
+  - first:
+      213: -996344033292532709
+    second: GlavniNeprijatelj_5
+  - first:
+      213: 5453361746380064330
+    second: GlavniNeprijatelj_6
+  - first:
+      213: 2371605460048194998
+    second: GlavniNeprijatelj_7
+  - first:
+      213: 540289885080588981
+    second: GlavniNeprijatelj_8
+  - first:
+      213: 9110175104325411434
+    second: GlavniNeprijatelj_9
+  - first:
+      213: -7977071318129682742
+    second: GlavniNeprijatelj_10
+  - first:
+      213: 6591987684809918711
+    second: GlavniNeprijatelj_11
   externalObjects: {}
-  serializedVersion: 12
+  serializedVersion: 11
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -20,12 +56,11 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
-    flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
-  ignoreMipmapLimit: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -48,7 +83,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 170
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -64,8 +99,6 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
-  swizzle: 50462976
-  cookieLightType: 0
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -77,7 +110,6 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -90,59 +122,6 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: Server
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: Android
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: Windows Store Apps
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
@@ -155,7 +134,7 @@ TextureImporter:
         x: 1441
         y: 5391
         width: 2792
-        height: 3765
+        height: 3764
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -163,8 +142,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9b6a9d8e40f534547b7635ab5b597511
-      internalID: 2043312679
+      spriteID: a9d3ac8f5241e26d0800000000000000
+      internalID: -3013448947343934054
       vertices: []
       indices: 
       edges: []
@@ -173,10 +152,10 @@ TextureImporter:
       name: GlavniNeprijatelj_1
       rect:
         serializedVersion: 2
-        x: 4525
+        x: 4526
         y: 5391
-        width: 2798
-        height: 3763
+        width: 2797
+        height: 3762
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -184,8 +163,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 70186f6cade45dc4fb8fb1dee93ce425
-      internalID: 1997729812
+      spriteID: 5363a706613084720800000000000000
+      internalID: 2830515760445142581
       vertices: []
       indices: 
       edges: []
@@ -194,10 +173,10 @@ TextureImporter:
       name: GlavniNeprijatelj_2
       rect:
         serializedVersion: 2
-        x: 7336
-        y: 3953
-        width: 1984
-        height: 2140
+        x: 7230
+        y: 3947
+        width: 2090
+        height: 2146
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -205,8 +184,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a167e5f8b47c0444e994062930ad11ef
-      internalID: -1053047524
+      spriteID: 67f2ca0c067bf3160800000000000000
+      internalID: 7007521171389034358
       vertices: []
       indices: 
       edges: []
@@ -218,7 +197,7 @@ TextureImporter:
         x: 1368
         y: 4645
         width: 2792
-        height: 475
+        height: 474
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -226,29 +205,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9574573d6a448ca40b22c92b68a69f4c
-      internalID: -683217651
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: GlavniNeprijatelj_4
-      rect:
-        serializedVersion: 2
-        x: 7237
-        y: 4538
-        width: 235
-        height: 224
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 51e5e82fe0c9c6b48923f59d7f40fc03
-      internalID: -738367496
+      spriteID: c86bb84905f623400800000000000000
+      internalID: 302426516867495564
       vertices: []
       indices: 
       edges: []
@@ -262,14 +220,14 @@ TextureImporter:
         width: 845
         height: 422
       alignment: 9
-      pivot: {x: 0.058525853, y: 0.5828736}
+      pivot: {x: 0.034417473, y: 0.4858734}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f8cb1ff7f801bd54ab03d321ebbea8c2
-      internalID: -1263391856
+      spriteID: b14c48d61664c22f0800000000000000
+      internalID: -996344033292532709
       vertices: []
       indices: 
       edges: []
@@ -283,14 +241,14 @@ TextureImporter:
         width: 845
         height: 422
       alignment: 9
-      pivot: {x: 0.95527023, y: 0.5828736}
+      pivot: {x: 0.96558136, y: 0.49999884}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 28ed7975adba8114b9b73b1ad9b6ed46
-      internalID: 1939653634
+      spriteID: a4600bc7d9b3eab40800000000000000
+      internalID: 5453361746380064330
       vertices: []
       indices: 
       edges: []
@@ -303,15 +261,15 @@ TextureImporter:
         y: 1041
         width: 2568
         height: 2536
-      alignment: 9
-      pivot: {x: 0.5000002, y: 0.0035374397}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e28593cd795e92d4b8cf6cb772466143
-      internalID: 1189241897
+      spriteID: 6bdac81c992a9e020800000000000000
+      internalID: 2371605460048194998
       vertices: []
       indices: 
       edges: []
@@ -324,15 +282,15 @@ TextureImporter:
         y: 2262
         width: 2536
         height: 1461
-      alignment: 9
-      pivot: {x: 0.50000036, y: -0.0026923981}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a3142f3ce6a0ecb47975acedbb500493
-      internalID: 1721103620
+      spriteID: 5b217f3b9ce7f7700800000000000000
+      internalID: 540289885080588981
       vertices: []
       indices: 
       edges: []
@@ -346,14 +304,14 @@ TextureImporter:
         width: 632
         height: 825
       alignment: 9
-      pivot: {x: 0.50000155, y: 1.0086985}
+      pivot: {x: 0.5094296, y: 0.9551926}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 622bd0b4d3003d9469dd130bd549feac
-      internalID: -537676816
+      spriteID: a626ce65df7dd6e70800000000000000
+      internalID: 9110175104325411434
       vertices: []
       indices: 
       edges: []
@@ -367,14 +325,14 @@ TextureImporter:
         width: 632
         height: 825
       alignment: 9
-      pivot: {x: 0.50000155, y: 0.99456793}
+      pivot: {x: 0.5188622, y: 0.9479676}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9bc974255548f344cb6dbbee8b3301b6
-      internalID: 1834808932
+      spriteID: ac65ce686efbb4190800000000000000
+      internalID: -7977071318129682742
       vertices: []
       indices: 
       edges: []
@@ -387,15 +345,15 @@ TextureImporter:
         y: 535
         width: 2536
         height: 1461
-      alignment: 9
-      pivot: {x: 0.50000036, y: 0.005286789}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a1c2c9fe6964d64449180807c610416c
-      internalID: -324805236
+      spriteID: 7f848dc9fd17b7b50800000000000000
+      internalID: 6591987684809918711
       vertices: []
       indices: 
       edges: []
@@ -411,20 +369,20 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      GlavniNeprijatelj_0: 2043312679
-      GlavniNeprijatelj_1: 1997729812
-      GlavniNeprijatelj_10: 1834808932
-      GlavniNeprijatelj_11: -324805236
-      GlavniNeprijatelj_2: -1053047524
-      GlavniNeprijatelj_3: -683217651
-      GlavniNeprijatelj_4: -738367496
-      GlavniNeprijatelj_5: -1263391856
-      GlavniNeprijatelj_6: 1939653634
-      GlavniNeprijatelj_7: 1189241897
-      GlavniNeprijatelj_8: 1721103620
-      GlavniNeprijatelj_9: -537676816
-  mipmapLimitGroupName: 
+      GlavniNeprijatelj_8: 540289885080588981
+      GlavniNeprijatelj_10: -7977071318129682742
+      GlavniNeprijatelj_1: 2830515760445142581
+      GlavniNeprijatelj_2: 7007521171389034358
+      GlavniNeprijatelj_3: 302426516867495564
+      GlavniNeprijatelj_7: 2371605460048194998
+      GlavniNeprijatelj_5: -996344033292532709
+      GlavniNeprijatelj_0: -3013448947343934054
+      GlavniNeprijatelj_6: 5453361746380064330
+      GlavniNeprijatelj_11: 6591987684809918711
+      GlavniNeprijatelj_9: 9110175104325411434
+  spritePackingTag: 
   pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

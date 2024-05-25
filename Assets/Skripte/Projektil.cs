@@ -27,9 +27,11 @@ public class Projektil : MonoBehaviour {
 
     private void OnTriggerEnter2D(Collider2D collision) {
         if (collision.tag == "Neprijatelj") {
+            collision.GetComponent<Neprijatelj>().PrimiStetu(steta);
             UnistavanjeProjektila();
         }
         if (collision.tag == "GlavniNeprijatelj") {
+            collision.GetComponent<GlavniNeprijatelj>().PrimiStetu(steta);
             UnistavanjeProjektila();
         }
     }

@@ -1,9 +1,30 @@
 fileFormatVersion: 2
-guid: 9e218c7fa168343408ceabe582256023
+guid: 4ae90247d4c001d45bfdb48f926d2afd
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 5031613379682127649
+    second: Ostalo_0
+  - first:
+      213: 5290204000318950691
+    second: Ostalo_1
+  - first:
+      213: -6198504493429993078
+    second: Ostalo_2
+  - first:
+      213: 4805229567647812304
+    second: Ostalo_3
+  - first:
+      213: -4168822647457108360
+    second: Ostalo_4
+  - first:
+      213: -6721862250790962124
+    second: Ostalo_5
+  - first:
+      213: -6444192838045834467
+    second: Ostalo_6
   externalObjects: {}
-  serializedVersion: 12
+  serializedVersion: 11
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -20,12 +41,11 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
-    flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
-  ignoreMipmapLimit: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -48,7 +68,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 170
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -64,8 +84,6 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
-  swizzle: 50462976
-  cookieLightType: 0
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -77,7 +95,6 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -90,59 +107,6 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: Server
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: Android
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: Windows Store Apps
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
@@ -163,8 +127,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f18c80a1e048d154db80fc606fa7b233
-      internalID: 2100822914
+      spriteID: 12f4e0fc5b1e3d540800000000000000
+      internalID: 5031613379682127649
       vertices: []
       indices: 
       edges: []
@@ -184,8 +148,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 41b080da2ff93d947964f26eadb5c90c
-      internalID: -1721061745
+      spriteID: 32d8c5472849a6940800000000000000
+      internalID: 5290204000318950691
       vertices: []
       indices: 
       edges: []
@@ -205,8 +169,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 48a5b458288200d4687fcb57610dffee
-      internalID: 1578898638
+      spriteID: a81517a110d7af9a0800000000000000
+      internalID: -6198504493429993078
       vertices: []
       indices: 
       edges: []
@@ -226,8 +190,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0ec13a6a60d585040a8c5298169f0c1e
-      internalID: -597832361
+      spriteID: 0da0ad325da9fa240800000000000000
+      internalID: 4805229567647812304
       vertices: []
       indices: 
       edges: []
@@ -236,19 +200,19 @@ TextureImporter:
       name: Ostalo_4
       rect:
         serializedVersion: 2
-        x: 222
-        y: 835
-        width: 1179
-        height: 1176
+        x: 0
+        y: 715
+        width: 1711
+        height: 1293
       alignment: 0
       pivot: {x: 0, y: 0}
-      border: {x: 4, y: 0, z: 3, w: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 63ff1e1d2f9251a47bd9d323a12ca708
-      internalID: -153017099
+      spriteID: 87e27b6b3ed5526c0800000000000000
+      internalID: -4168822647457108360
       vertices: []
       indices: 
       edges: []
@@ -259,8 +223,8 @@ TextureImporter:
         serializedVersion: 2
         x: 2084
         y: 213
-        width: 1818
-        height: 283
+        width: 1872
+        height: 348
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -268,8 +232,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 17d74432ecbbe4c48a7bef2672af16d6
-      internalID: 1217685204
+      spriteID: 43c3f7895e527b2a0800000000000000
+      internalID: -6721862250790962124
       vertices: []
       indices: 
       edges: []
@@ -289,8 +253,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1c1ea19a673734948991dcb8dd12a28b
-      internalID: 1817722086
+      spriteID: d136920b1c0a196a0800000000000000
+      internalID: -6444192838045834467
       vertices: []
       indices: 
       edges: []
@@ -306,15 +270,16 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Ostalo_0: 2100822914
-      Ostalo_1: -1721061745
-      Ostalo_2: 1578898638
-      Ostalo_3: -597832361
-      Ostalo_4: -153017099
-      Ostalo_5: 1217685204
-      Ostalo_6: 1817722086
-  mipmapLimitGroupName: 
+      Ostalo_4: -4168822647457108360
+      Ostalo_1: 5290204000318950691
+      Ostalo_0: 5031613379682127649
+      Ostalo_2: -6198504493429993078
+      Ostalo_5: -6721862250790962124
+      Ostalo_3: 4805229567647812304
+      Ostalo_6: -6444192838045834467
+  spritePackingTag: 
   pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 
