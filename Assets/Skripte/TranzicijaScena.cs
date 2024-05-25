@@ -18,7 +18,7 @@ public class TranzicijaScena : MonoBehaviour {
     IEnumerator Tranzicija(string imeScene) {
         tranzicijaAnim.SetTrigger("Kraj");
         yield return new WaitForSeconds(1);
-        SceneManager.LoadScene(imeScene);
+        //SceneManager.LoadScene(imeScene);
     }
 
     public void IzlazIzIgre() {
